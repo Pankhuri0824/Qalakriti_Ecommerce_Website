@@ -2,8 +2,8 @@
 # QALAKRITI E-COMMERCE WEBSITE
  Qalakriti is an e-commerce initiative spotlighting handcrafted treasures from various regions of India. We aspire to create a digital haven that preserves traditional craftsmanship while providing a platform for these talented individuals to share their unique stories and creations with the world. Qalakriti celebrates the cultural richness of India, offering a curated collection of handicrafts like textiles, pottery, and more.
 
-
-The Command Line App provides the following features to the user base. There are different functionalities for three different kind of users: Admin, Customers, and Handicraft Craftsmen. 
+The Website features multiple User Functionalities along with a user friendly interface.To run this please download the zip file and run app.py
+The Command Line App provides the following features to the user base. There are different functionalities for three different kind of users: Admin, Customers, and Handicraft Craftsmen. To run this please download the zip file and run CommandLineInterface.py
 
 1) ### Admin Functionalities: 
     The Admin interface provides the following features -
